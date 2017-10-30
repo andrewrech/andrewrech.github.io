@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/rech
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rech.io
+  * I am rech (https://keybase.io/rech) on keybase.
+  * I have a public key with fingerprint AF30 08B9 C645 F201 15C4  D672 53AC FA65 EB08 0DD6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e39417ad694f2615002d7ea984afa9d6bcaba5e2b1bb529d0fb59aced399c6a20a",
+            "fingerprint": "af3008b9c645f20115c4d67253acfa65eb080dd6",
+            "host": "keybase.io",
+            "key_id": "53acfa65eb080dd6",
+            "kid": "0101e39417ad694f2615002d7ea984afa9d6bcaba5e2b1bb529d0fb59aced399c6a20a",
+            "uid": "5c7f98d51a1e71bb23dfe4a511482f19",
+            "username": "rech"
+        },
+        "revoke": {
+            "sig_ids": [
+                "53c4fe3e089bf675e72e4d940f849383802713c5439a05f3b87a74d9031bb1440f"
+            ]
+        },
+        "service": {
+            "hostname": "rech.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491564973,
+    "expire_in": 157680000,
+    "prev": "36b105843b3c9b492d55c54a0c09ac64bc5d3480cf457ed747f6225fceef79f3",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMW1UALgNNKTLY6jIczrA7wgRaPffec18NMDfdSIY4UpKFjGC9j3NLLdzW
+tjwKFpgMsxkQQnSwLZSBU/dghk1jNjZwm5JhpswpA5a9fgwHiNFAZgRk4CmLiT/8
+6flzcs75Xuc7pyk6XGcIy+2aR1P66OGwq5OSLm/c/2UlIbkUP2GpJJxoeUJFCvL6
+bE6HQlgIQAIS0QIkOVFhBahSLMkAQCkcEgUeiqooKKwki5LIIEoiJYmhBAWoEiOI
+MlJoQZBZkQIiYSJUh2ZHHrfHofmwrKjSAPASPoaMSgGSZGSosBzF0KKsiiyDJMAD
+RWExsdDlDTFwOEn0ohccLryHF7bleP+B/59zlzz2kTlV4BWGFEnEYThFKyqCIkOS
+kKdUUggBvcijicUIoz1ILiQCJjyXupwo1KnXYceBvYQlH0eWoYpoBHhBUlmOQRyF
+oCJAoPJQoHmaBxRH0jIDaUEEjEpLPCdyGABo7EtCjCMKsDZ2K3XIy+Khhv7l/Lgi
+t8flc8muIrxZ6PO5LaE8Pr87BCpDki1EP4n5NsmhKfhpMKMUebwOl0ZYSAyVfY6Q
+IAkFkmGhwNEmApW7HR5kc4QQDMfyAI+QDyrFmjQrkYDhIS3RsiBBgVIYBt9BBDLA
+lbJQkhmFhjyQVchwSOEgp7IUxagyQionqDQRutFbmouwUBAHFe1YE5emib4SDyIC
+hv0rno3QhRl0Tz6xIvRpdYbI2H9+cupwrO67HP2PrLNvLv+n8IKsRDkpuWagbfN+
+kHIg59ho3yf1In8izZwytNinDBRW6O0500lv/kBm/9m39IUvjLvS8/AwaJmwX26x
+aud7r53p2Rte3p0WrGzUBi8mOLN6Fk6NRU6v6jFMn9q0TmrPFmI8XNXRtdee02v+
+5NYtl8us5tvnzLUdxkWw1X+95vPqkcY7cJevIoO/kPrgRqDTesViOlmSW/vo5de0
+DnooIoxvvtkRkz+f3v3V3QMJ2XlGEaY9YwhGsemoeTKfr6sy37t5y/p6TdK3m55q
+Pd2wPb32Ur95TbLe+Uaz+X58xtjXI0eN3b2uYf8+69UjxqlAdQUbvn1P3JamgV82
+2m/9unP2eFtD1umZwNrM59O63O3RzNnyYMfDfavO9w+92zg6EVcYH+xcbbbYUr3j
+ddua5159NDcbHNx9Ibblm1fuzyhROzfEjR0PjBxKGPz5o+GNWy/Ozo22ZsGXTG56
+79L4kfoMXe7UiYKcrtsrF88dSvk0Tp/ePDHiGm9Yf2fBEj35mTEmM7dq3R9NwekN
+8wsxH5jbfvNGalOGle81XL/7/YOouIgPL3XOjzj/OngwQOUd2/Y+r3r614wOWZkd
+laMv7sr8fWDi6URne/0QUd1wo7h3R1Fi8czMO4drkppm3za6d8d31Jm8Zap6dn3p
+EnvvjGf1nvbkCqp6cPPHfwM=
+=mZxH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rech
+
+==================================================================
