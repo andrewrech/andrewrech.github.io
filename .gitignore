@@ -27,3 +27,7 @@
 *.stTheme.cache
 *.sublime-workspace
 core
+raw_figures/
+*html
+*pdf
+*docx
