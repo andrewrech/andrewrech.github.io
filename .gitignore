@@ -2,7 +2,6 @@
 .AppleDouble
 .LSOverride
 */~$*
-.stversions
 .stfolder
 .stignore
 *.dropbox*
@@ -21,6 +20,3 @@ raw_figures/
 *html
 *pdf
 *docx
-*sync-conflict*
- *.syncthing.*
-.osync_workdir
