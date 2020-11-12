@@ -12,5 +12,5 @@ tab_width = 2
 trim_trailing_whitespace = true
 charset = utf-8
 
-[*{R,Rmd,zsh,sh,bash,vim,py}]
+[*{R,Rmd,md,MD,RMD,zsh,sh,bash,vim,py,docker,Dockerfile}]
 indent_style = space
