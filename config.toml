@@ -1,0 +1,75 @@
+# Site settings
+baseurl = "https://andrewrech.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+languageCode = "en-US"
+title = "Andrew J. Rech"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+publishDir = "../andrewrech.github.io"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Andrew J. Rech"
+  description = "I am a clinical pathology resident in the physician-scientist pathway at the University of Pennsylvania. I research basic and translational tumor immunology using mouse models of cancer, patient tissue analysis, and systems immunology approaches. In the past, I have studied the immunobiology of radiation, regulatory T cells, tumor antigenicity, and resistance to immune checkpoint blockade. My current basic research focus is investigating the role of endogenous immunity in responses to chimeric antigen receptor T cells. My current translational focus is using tumor and immune biomarkers to build and deploy a real-time predictive model of response to immune checkpoint blockade in the electronic health record."
+  shareImage = "images/social.jpg"
+  twitterHandle = "andrewjrech"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Publications"
+
+      [[params.links.list1.link]]
+        text = "Google Scholar"
+        url = "https://scholar.google.ca/citations?user=6IQGT7QAAAAJ&hl=en"
+
+      [[params.links.list1.link]]
+        text = "Pubmed"
+        url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Rech+AJ%5BAuthor%5D"
+
+			[[params.links.list1.link]]
+        text = "CV"
+        url = "https://get.rech.io/Andrew_Rech.pdf"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Connect"
+
+      [[params.links.list2.link]]
+        text = "Email"
+        url = "mailto:rech@rech.io"
+
+      [[params.links.list2.link]]
+        text = "Github"
+        url = "https://github.com/andrewrech"
+#
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Affiliations"
+
+      [[params.links.list3.link]]
+        text = "University of Pennsylvania"
+        url = "https://www.med.upenn.edu"
+
+      [[params.links.list3.link]]
+        text = "Parker Institute for Cancer Immunotherapy"
+        url = "https://www.parkerici.org"
